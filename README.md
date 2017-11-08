@@ -1,5 +1,5 @@
 # python----notes form hahow
-# 課程大綱（Syllabus）
+# Syllabus
 1. 單元1 - Python 程式設計初體驗（寶可夢 Pokemon 對戰遊戲範例）
 
 2. 單元2 - Python 開發環境建置（終端機與編輯器）與 Github 操作入門
